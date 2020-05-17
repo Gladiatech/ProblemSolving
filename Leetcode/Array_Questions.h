@@ -3,6 +3,10 @@
 
 using namespace std;
 
+
+//Leetcode 26
+//The solution is not efficient but it works
+
 vector<int> input = { 0,0,1,1,1,2,2,3,3,4 };
 
 
