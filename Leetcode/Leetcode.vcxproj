@@ -150,8 +150,11 @@
     <ClCompile Include="Leetcode.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="AddTwoNumbers.h" />
     <ClInclude Include="Array_Questions.h" />
     <ClInclude Include="LinkedList.h" />
+    <ClInclude Include="Median_Two_Sorted_Arrays.h" />
+    <ClInclude Include="TwoSum.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

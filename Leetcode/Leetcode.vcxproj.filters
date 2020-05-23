@@ -26,5 +26,14 @@
     <ClInclude Include="LinkedList.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="TwoSum.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AddTwoNumbers.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Median_Two_Sorted_Arrays.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
