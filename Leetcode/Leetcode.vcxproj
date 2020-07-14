@@ -157,6 +157,8 @@
     <ClInclude Include="Flatten_Linked_List.h" />
     <ClInclude Include="LinkedList.h" />
     <ClInclude Include="Median_Two_Sorted_Arrays.h" />
+    <ClInclude Include="Meeting_Rooms.h" />
+    <ClInclude Include="Meeting_Rooms_2.h" />
     <ClInclude Include="Minimum Remove to Make Valid Parentheses_1249.h" />
     <ClInclude Include="Remove_Duplicates_Sorted_Array.h" />
     <ClInclude Include="TwoSum.h" />
