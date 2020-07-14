@@ -152,9 +152,16 @@
   <ItemGroup>
     <ClInclude Include="AddTwoNumbers.h" />
     <ClInclude Include="Array_Questions.h" />
+    <ClInclude Include="Burst_Baloons.h" />
+    <ClInclude Include="Closesst_Points_973.h" />
+    <ClInclude Include="Flatten_Linked_List.h" />
     <ClInclude Include="LinkedList.h" />
     <ClInclude Include="Median_Two_Sorted_Arrays.h" />
+    <ClInclude Include="Minimum Remove to Make Valid Parentheses_1249.h" />
+    <ClInclude Include="Remove_Duplicates_Sorted_Array.h" />
     <ClInclude Include="TwoSum.h" />
+    <ClInclude Include="Valid_Parentheses.h" />
+    <ClInclude Include="WordBreak_139.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

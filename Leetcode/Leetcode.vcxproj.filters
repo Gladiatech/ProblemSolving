@@ -35,5 +35,26 @@
     <ClInclude Include="Median_Two_Sorted_Arrays.h">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="Remove_Duplicates_Sorted_Array.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Valid_Parentheses.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Flatten_Linked_List.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Closesst_Points_973.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Minimum Remove to Make Valid Parentheses_1249.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="WordBreak_139.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Burst_Baloons.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
